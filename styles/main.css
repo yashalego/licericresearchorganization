@@ -1,0 +1,39 @@
+@font-face {
+  font-family: "ZektonRg";
+  src: url("../assets/fonts/ZektonRg.otf") format("opentype");
+}
+
+body {
+	background-color: #101010;
+}
+
+p {
+	color: #FFFFFF;
+	font-size: 20px;
+	font-family: "ZektonRg";
+	text-align: center;
+	margin-top: 12px;
+	margin-bottom: 12px;
+}
+
+.heading {
+	font-size: 28px;
+	margin-top: 22px;
+	margin-bottom: 18px;
+}
+
+#page-heading {
+	font-size: 48px;
+	margin-top: 32px;
+	margin-bottom: 0px;
+}
+
+#page-name {
+	font-size: 32px;
+	margin-top: 0px;
+	margin-bottom: 32px;
+}
+
+#page-content {
+	
+}
